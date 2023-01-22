@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MugeLuke
 - 👀 I’m interested in piano improvisation.
 - 🌱 I’m currently learning all of Chopin's Nocturnes. 
-- 💞️ I’m looking to collaborate on BIOSTAT 821 repository 
+- 💞️ I’m looking to collaborate with you all. 
 - 📫 How to reach me: muge.wang@duke.edu 2037705920
 
 <!---
